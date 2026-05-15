@@ -83,7 +83,7 @@ Applied:
 
 # 📈 Best Model
 
-Ridge Regression performed best because it handled multicollinearity effectively using regularization.
+Linear Regression performed best because it handled multicollinearity effectively using regularization.
 
 ---
 
